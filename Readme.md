@@ -1,6 +1,7 @@
 # Проект «Большое путешествие»
 
 * Студент: [Иван Дейнеженко](https://up.htmlacademy.ru/ecmascript-individual/2/user/1738067).
+* Наставник: [Олег Глущенко](https://htmlacademy.ru/profile/id305355).
 
 ---
 
