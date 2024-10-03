@@ -355,4 +355,5 @@ export default class ListEvents {
   removeElement() {
     this.element = null;
   }
+
 }

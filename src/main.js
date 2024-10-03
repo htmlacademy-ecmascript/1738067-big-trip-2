@@ -10,3 +10,4 @@ const tripEventsSection = document.querySelector('.trip-events');
 render(new FilterEvents(), filterControlsSection);
 render(new TripSort(), tripEventsSection);
 render(new ListEvents(), tripEventsSection);
+

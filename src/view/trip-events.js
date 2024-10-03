@@ -49,4 +49,5 @@ export default class TripSort {
   removeElement() {
     this.element = null;
   }
+
 }
