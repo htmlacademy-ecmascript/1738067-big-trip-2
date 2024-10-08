@@ -1,13 +1,7 @@
-import FilterEvents from './view/filters';
-import TripSort from './view/trip-events';
-import ListEvents from './view/list-events';
-import { render } from './render';
+import BoardPresenter from './mock/task.js';
 
+const body = document.querySelector('body');
+const boardPresenter = new BoardPresenter({boardContainer: body});
 
-const filterControlsSection = document.querySelector('.trip-controls__filters');
-const tripEventsSection = document.querySelector('.trip-events');
-
-render(new FilterEvents(), filterControlsSection);
-render(new TripSort(), tripEventsSection);
-render(new ListEvents(), tripEventsSection);
+boardPresenter.init();
 
