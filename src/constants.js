@@ -2,3 +2,4 @@ const EVENT_TYPES = ['Taxi', 'Bus', 'Train', 'Ship', 'Drive', 'Flight', 'Check-i
 
 export {EVENT_TYPES};
 
+

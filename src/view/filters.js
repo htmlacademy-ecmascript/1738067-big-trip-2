@@ -49,3 +49,4 @@ export default class FilterEvents {
     this.element = null;
   }
 }
+
