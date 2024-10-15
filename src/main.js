@@ -5,3 +5,4 @@ const boardPresenter = new BoardPresenter({boardContainer: body});
 
 boardPresenter.init();
 
+

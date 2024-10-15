@@ -32,5 +32,3 @@ function generateTimeRange(startTime) {
 }
 
 export {getRandomArrayElement, getRandomEvent, date, generateTimeRange, getRandomNumber};
-
-
